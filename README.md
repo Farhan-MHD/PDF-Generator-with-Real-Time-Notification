@@ -1,4 +1,3 @@
-Here’s the **README.md** file in **Markdown format** for your GitHub repository. You can copy and paste this directly into a `README.md` file in your project directory.
 
 ---
 
